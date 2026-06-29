@@ -15,7 +15,7 @@ A clean, modern, and responsive Counter Application built using vanilla JavaScri
 
 ## Preview
 
-[Live Demo]()
+[Live Demo](https://nurscodee.github.io/counter-app/)
 
 - **Increase:** Adds `1` to the current value.
 - **Decrease:** Subtracts `1` from the current value.
